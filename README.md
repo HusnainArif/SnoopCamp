@@ -8,7 +8,7 @@ Back End: NodeJS, NPM, ExpressJS, REST, Authentication(PassportJS), Authorizatio
 
 Database: MongoDB.
 
-The application was developed on Cloud9 IDE and source versioned with GIT. The application is hosted on Heroku servers and mlab. SnoopCamp is a fun application that allows you to view campgrounds with a short description. Once you login or signup you can begin to create your  own campgrounds that includes a title, image address and short description. You will also be able to leave a comment or edit a campground of yours.
+The application has all CRUD functions. It was developed on Cloud9 IDE and source versioned with GIT. The application is hosted on Heroku servers and mlab. SnoopCamp is a fun application that allows you to view campgrounds with a short description. Once you login or signup you can begin to create your  own campgrounds that includes a title, image address and short description. You will also be able to leave a comment or edit a campground of yours.
 
 
 **You will need to click the link below to redirect to the full live version in order to signup.
